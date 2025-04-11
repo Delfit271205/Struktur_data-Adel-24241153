@@ -23,5 +23,5 @@ print(hasil)
 
 a = 24
 b = 53
-hasil = a not b
+hasil = (" a not b ") 
 print(hasil)
